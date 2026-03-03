@@ -24,7 +24,7 @@
 → 백엔드 개발자를 꿈꾸며 차근차근 성장 중이에요 
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Computer Engineering Graduate-to-be  
-→ 컴퓨터공학 전공 졸업예정자 
+→ 컴퓨터공학 전공 졸업
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="25" height="25" /> Java · Spring Boot · SQL  
 → Java와 Spring Boot로 서버를 만들고, 데이터 흐름을 이해하는 것을 좋아해요
