@@ -21,7 +21,7 @@
 
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="25" height="25" /> Backend Developer in progress  
-→ 백엔드 개발자를 꿈꾸며 차근차근 성장 중이에요 
+→ 풀스택 개발자를 꿈꾸며 차근차근 성장 중이에요 
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Computer Engineering Graduate-to-be  
 → 컴퓨터공학 전공 졸업
